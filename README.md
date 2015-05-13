@@ -68,5 +68,5 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |<img src="shiftyeyes.gif" alt="shiftyeyes" width="25" height="25" /> | shiftyeyes.gif |
 |<img src="success.png" alt="success" width="25" height="25" /> |success.png |
 |![timeforthat](timeforthat.gif)                |timeforthat.gif |
-|<img src="WordPress.png" alt="WordPress" width="25" height="25" /> |wordpress.png |
+|<img src="wordpress.png" alt="WordPress" width="25" height="25" /> |wordpress.png |
 |<img src="wpaz.png" alt="wpaz" width="25" height="25" /> |wpaz.png (Arizona WordPress Group) |
