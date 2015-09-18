@@ -26,6 +26,7 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |<img src="cowbell.png" alt="cowbell" width="25" height="25" /> | cowbell.png |
 |<img src="cowbellAlt.png" alt="cowbellAlt" width="25" height="25" />| cowbellAlt.png |
 |<img src="dancing-banana.gif" alt="dancing-banana" width="25" height="25" /> | dancing-banana.gif |
+|<img src="dancingunicorn.gif" alt="dancingunicorn" width="25" height="25" /> | dancingunicorn.gif |
 |<img src="doge.png" alt="doge" width="25" height="25" /> | doge.png |
 |<img src="donatello.png" alt="donatello" width="25" height="25" /> | donatello.png |
 |![dramatic](dramatic.gif)                      | dramatic.gif |
@@ -61,6 +62,7 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |![philosoraptor](philosoraptor.png)            | philosoraptor.png |
 |![php](php.png)                                | php.png |
 |![pingpong](pingpong.png)                      | pingpong.png |
+|<img src="rainbowtv.gif" alt="rainbowtv" width="25" height="25" /> | rainbowtv.gif |
 |<img src="rightshark.png" alt="rightshark" width="25" height="25" /> | rightshark.png |
 |![reddit](reddit.png)                          | reddit.png |
 |![robotunicorn](robotunicorn.gif)              | robotunicorn.gif |
