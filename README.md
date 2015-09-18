@@ -29,10 +29,12 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |<img src="doge.png" alt="doge" width="25" height="25" /> | doge.png |
 |<img src="donatello.png" alt="donatello" width="25" height="25" /> | donatello.png |
 |![dramatic](dramatic.gif)                      | dramatic.gif |
+|<img src="fingerscrossed.png" alt="fingerscrossed" width="25" height="25" /> | fingerscrossed.png |
 |![firefox](firefox.png)                        | firefox.png |
 |![firstworldproblem](firstworldproblem.png)    | firstworldproblem.png |
 |<img src="goomba.gif" alt="goomba" width="25" height="28" /> | goomba.gif |
 |![grumpycat](grumpycat.png)                    | grumpycat.png |
+|<img src="hummingbird.png" alt="hummingbird" width="25" height="25" /> | hummingbird.png |
 |<img src="hypnotoad.gif" alt="hypnotoad" width="25" height="25" /> | hypnotoad.gif |
 |![ie](ie.png)                                  | ie.png |
 |<img src="leftshark.png" alt="leftshark" width="25" height="25" /> | leftshark.png |
@@ -52,6 +54,7 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |<img src="nyancat-alt.gif" alt="nyancat-alt" width="30" height="25" /> | nyancat-alt.gif |
 |<img src="octocat.png" alt="octocat" width="25" height="25" /> | octocat.png |
 |![opera](opera.png)                            | opera.png |
+|<img src="partycat.png" alt="partycat" width="25" height="25" /> | partycat.png |
 |<img src="peace.png" alt="peace" width="25" height="25" /> | peace.png |
 |<img src="peace-alt.png" alt="peace-alt" width="25" height="25" /> | peace-alt.png |
 |<img src="penguin-dance.gif" alt="penguin-dance" width="25" height="25" /> | penguin-dance.gif |
@@ -70,3 +73,4 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |![timeforthat](timeforthat.gif)                |timeforthat.gif |
 |<img src="wordpress.png" alt="WordPress" width="25" height="25" /> |wordpress.png |
 |<img src="wpaz.png" alt="wpaz" width="25" height="25" /> |wpaz.png (Arizona WordPress Group) |
+|<img src="yodawg.gif" alt="yodawg" width="19" height="25" /> | yodawg.gif |
