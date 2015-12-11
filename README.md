@@ -26,6 +26,7 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |<img src="cowbell.png" alt="cowbell" width="25" height="25" /> | cowbell.png |
 |<img src="cowbellAlt.png" alt="cowbellAlt" width="25" height="25" />| cowbellAlt.png |
 |<img src="dancing-banana.gif" alt="dancing-banana" width="25" height="25" /> | dancing-banana.gif |
+|<img src="dancing-banana-brian.gif" alt="dancing-banana-brian" width="25" height="25" /> | dancing-banana-brian.gif |
 |<img src="dancingunicorn.gif" alt="dancingunicorn" width="25" height="25" /> | dancingunicorn.gif |
 |<img src="doge.png" alt="doge" width="25" height="25" /> | doge.png |
 |<img src="donatello.png" alt="donatello" width="25" height="25" /> | donatello.png |
@@ -73,6 +74,7 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |<img src="shiftyeyes.gif" alt="shiftyeyes" width="25" height="25" /> | shiftyeyes.gif |
 |<img src="success.png" alt="success" width="25" height="25" /> |success.png |
 |![timeforthat](timeforthat.gif)                |timeforthat.gif |
+|<img src="wapuu.png" alt="Wapuu" width="22" height="25" /> |wapuu.png |
 |<img src="wordpress.png" alt="WordPress" width="25" height="25" /> |wordpress.png |
 |<img src="wpaz.png" alt="wpaz" width="25" height="25" /> |wpaz.png (Arizona WordPress Group) |
 |<img src="yodawg.gif" alt="yodawg" width="19" height="25" /> | yodawg.gif |
