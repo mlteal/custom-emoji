@@ -28,6 +28,7 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |<img src="dancing-banana.gif" alt="dancing-banana" width="25" height="25" /> | dancing-banana.gif |
 |<img src="dancing-banana-brian.gif" alt="dancing-banana-brian" width="25" height="25" /> | dancing-banana-brian.gif |
 |<img src="dancingunicorn.gif" alt="dancingunicorn" width="25" height="25" /> | dancingunicorn.gif |
+|<img src="docker.png" alt="docker" width="25" height="25" /> | docker.png |
 |<img src="doge.png" alt="doge" width="25" height="25" /> | doge.png |
 |<img src="donatello.png" alt="donatello" width="25" height="25" /> | donatello.png |
 |![dramatic](dramatic.gif)                      | dramatic.gif |
@@ -60,6 +61,7 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |<img src="peace.png" alt="peace" width="25" height="25" /> | peace.png |
 |<img src="peace-alt.png" alt="peace-alt" width="25" height="25" /> | peace-alt.png |
 |<img src="penguin-dance.gif" alt="penguin-dance" width="25" height="25" /> | penguin-dance.gif |
+|<img src="pepper.png" alt="pepper" width="15" height="25" /> | pepper.png |
 |![philosoraptor](philosoraptor.png)            | philosoraptor.png |
 |![php](php.png)                                | php.png |
 |![pingpong](pingpong.png)                      | pingpong.png |
@@ -70,10 +72,13 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |<img src="rubberduck.gif" alt="rubberduck" width="25" height="25" /> | rubberduck.gif |
 |![sadpanda](sadpanda.png)                      | sadpanda.png |
 |![safari](safari.png)                          | safari.png |
+|<img src="salt.png" alt="salt" width="15" height="25" /> | salt.png |
 |<img src="scoobydoo.gif" alt="scoobydoo" width="25" height="25" />| scoobydoo.gif |
 |<img src="shiftyeyes.gif" alt="shiftyeyes" width="25" height="25" /> | shiftyeyes.gif |
+|<img src="snoop.png" alt="snoop" width="25" height="25" /> | snoop.png |
 |<img src="success.png" alt="success" width="25" height="25" /> |success.png |
 |![timeforthat](timeforthat.gif)                |timeforthat.gif |
+|<img src="vagrant.png" alt="vagrant" width="25" height="25" /> | vagrant.png |
 |<img src="wapuu.png" alt="Wapuu" width="22" height="25" /> |wapuu.png |
 |<img src="wordpress.png" alt="WordPress" width="25" height="25" /> |wordpress.png |
 |<img src="wpaz.png" alt="wpaz" width="25" height="25" /> |wpaz.png (Arizona WordPress Group) |
