@@ -35,6 +35,11 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |<img src="fingerscrossed.png" alt="fingerscrossed" width="25" height="25" /> | fingerscrossed.png |
 |![firefox](firefox.png)                        | firefox.png |
 |![firstworldproblem](firstworldproblem.png)    | firstworldproblem.png |
+|<img src="flappybird.gif" alt="flappybird" width="25" height="25" /> | flappybird.gif |
+|<img src="flappybird-green.gif" alt="flappybirdgreen" width="25" height="25" /> | flappybird-green.gif |
+|<img src="flappybird-orange.gif" alt="flappybirdorange" width="25" height="25" /> | flappybird-orange.gif |
+|<img src="flappybird-purple.gif" alt="flappybirdpurple" width="25" height="25" /> | flappybird-purple.gif |
+|<img src="flappybird-teal.gif" alt="flappybirdteal" width="25" height="25" /> | flappybird-teal.gif |
 |<img src="goomba.gif" alt="goomba" width="25" height="28" /> | goomba.gif |
 |![grumpycat](grumpycat.png)                    | grumpycat.png |
 |<img src="hummingbird.png" alt="hummingbird" width="25" height="25" /> | hummingbird.png |
