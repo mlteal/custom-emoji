@@ -6,6 +6,10 @@ Base icon set sourced from [w33ble](https://github.com/w33ble)'s [Adium Hipchat 
 
 v1.1 Icons sourced from a variety of places, but notably the collection by [snipe](https://github.com/snipe)'s [awesome-emoji](https://github.com/snipe/awesome-emoji) set provided quite a few
 
+### Easy installation
+
+Use this chrome extension to add all these neat custom emojis in seconds: [Slack Emoji Tools](https://chrome.google.com/webstore/detail/slack-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej)
+
 ### Icons
 
 | Icon | File Name |
