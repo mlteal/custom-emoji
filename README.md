@@ -60,7 +60,6 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |![nope](nope.png)                              | nope.png |
 |![nyancat](nyancat.gif)                        | nyancat.gif |
 |<img src="nyancat-alt.gif" alt="nyancat-alt" width="30" height="25" /> | nyancat-alt.gif |
-|<img src="octocat.png" alt="octocat" width="25" height="25" /> | octocat.png |
 |![opera](opera.png)                            | opera.png |
 |<img src="partycat.png" alt="partycat" width="25" height="25" /> | partycat.png |
 |<img src="peace.png" alt="peace" width="25" height="25" /> | peace.png |
