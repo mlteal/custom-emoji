@@ -16,7 +16,7 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |![batman](batman.gif)                          | batman.gif |
 |![bender](bender.png)                          | bender.png |
 |<img src="bender-banana.gif" alt="bender-banana" width="25" height="25" /> | bender-banana.gif |
-|![boom](boom.gif)                              | boom.gif |
+|![booom](booom.gif)                            | booom.gif |
 |![branch](branch.png)                          | branch.png |
 |![candycorn](candycorn.png)                    | candycorn.png |
 |![ceilingcat](ceilingcat.png)                  | ceilingcat.png |
