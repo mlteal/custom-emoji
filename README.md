@@ -24,7 +24,7 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |![chrome](chrome.png)                          | chrome.png |
 |![coolio](coolio.png)                          | coolio.png |
 |<img src="cowbell.png" alt="cowbell" width="25" height="25" /> | cowbell.png |
-|<img src="cowbellAlt.png" alt="cowbellAlt" width="25" height="25" />| cowbellAlt.png |
+|<img src="cowbell-alt.png" alt="cowbell-alt" width="25" height="25" />| cowbell-alt.png |
 |<img src="dancing-banana.gif" alt="dancing-banana" width="25" height="25" /> | dancing-banana.gif |
 |<img src="dancing-banana-brian.gif" alt="dancing-banana-brian" width="25" height="25" /> | dancing-banana-brian.gif |
 |<img src="dancingunicorn.gif" alt="dancingunicorn" width="25" height="25" /> | dancingunicorn.gif |
