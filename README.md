@@ -6,6 +6,10 @@ Base icon set sourced from [w33ble](https://github.com/w33ble)'s [Adium Hipchat 
 
 v1.1 Icons sourced from a variety of places, but notably the collection by [snipe](https://github.com/snipe)'s [awesome-emoji](https://github.com/snipe/awesome-emoji) set provided quite a few
 
+### Easy installation
+
+Use this chrome extension to add all these neat custom emojis in seconds: [Slack Emoji Tools](https://chrome.google.com/webstore/detail/slack-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej)
+
 ### Icons
 
 | Icon | File Name |
@@ -16,7 +20,7 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |![batman](batman.gif)                          | batman.gif |
 |![bender](bender.png)                          | bender.png |
 |<img src="bender-banana.gif" alt="bender-banana" width="25" height="25" /> | bender-banana.gif |
-|![boom](boom.gif)                              | boom.gif |
+|![booom](booom.gif)                            | booom.gif |
 |![branch](branch.png)                          | branch.png |
 |![candycorn](candycorn.png)                    | candycorn.png |
 |![ceilingcat](ceilingcat.png)                  | ceilingcat.png |
@@ -24,7 +28,7 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |![chrome](chrome.png)                          | chrome.png |
 |![coolio](coolio.png)                          | coolio.png |
 |<img src="cowbell.png" alt="cowbell" width="25" height="25" /> | cowbell.png |
-|<img src="cowbellAlt.png" alt="cowbellAlt" width="25" height="25" />| cowbellAlt.png |
+|<img src="cowbell-alt.png" alt="cowbell-alt" width="25" height="25" />| cowbell-alt.png |
 |<img src="dancing-banana.gif" alt="dancing-banana" width="25" height="25" /> | dancing-banana.gif |
 |<img src="dancing-banana-brian.gif" alt="dancing-banana-brian" width="25" height="25" /> | dancing-banana-brian.gif |
 |<img src="dancingunicorn.gif" alt="dancingunicorn" width="25" height="25" /> | dancingunicorn.gif |
@@ -60,7 +64,6 @@ v1.1 Icons sourced from a variety of places, but notably the collection by [snip
 |![nope](nope.png)                              | nope.png |
 |![nyancat](nyancat.gif)                        | nyancat.gif |
 |<img src="nyancat-alt.gif" alt="nyancat-alt" width="30" height="25" /> | nyancat-alt.gif |
-|<img src="octocat.png" alt="octocat" width="25" height="25" /> | octocat.png |
 |![opera](opera.png)                            | opera.png |
 |<img src="partycat.png" alt="partycat" width="25" height="25" /> | partycat.png |
 |<img src="peace.png" alt="peace" width="25" height="25" /> | peace.png |
