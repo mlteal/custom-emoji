@@ -29,6 +29,7 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |![coolio](coolio.png)                          | coolio.png |
 |<img src="cowbell.png" alt="cowbell" width="25" height="25" /> | cowbell.png |
 |<img src="cowbell-alt.png" alt="cowbell-alt" width="25" height="25" />| cowbell-alt.png |
+|<img src="cowboy.gif" alt="cowboy" width="25" height="25" /> | cowboy.gif |
 |<img src="dancing-banana.gif" alt="dancing-banana" width="25" height="25" /> | dancing-banana.gif |
 |<img src="dancing-banana-brian.gif" alt="dancing-banana-brian" width="25" height="25" /> | dancing-banana-brian.gif |
 |<img src="dancingunicorn.gif" alt="dancingunicorn" width="25" height="25" /> | dancingunicorn.gif |
@@ -46,15 +47,19 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |<img src="flappybird-teal.gif" alt="flappybirdteal" width="25" height="25" /> | flappybird-teal.gif |
 |<img src="goomba.gif" alt="goomba" width="25" height="28" /> | goomba.gif |
 |![grumpycat](grumpycat.png)                    | grumpycat.png |
+|<img src="highfive.gif" alt="highfive" width="25" height="22" /> | highfive.gif |
 |<img src="hummingbird.png" alt="hummingbird" width="25" height="25" /> | hummingbird.png |
 |<img src="hypnotoad.gif" alt="hypnotoad" width="25" height="25" /> | hypnotoad.gif |
 |![ie](ie.png)                                  | ie.png |
+|<img src="koopa.png" alt="koopa" width="25" height="25" /> | koopa.png |
 |<img src="leftshark.png" alt="leftshark" width="25" height="25" /> | leftshark.png |
+|<img src="life-mushroom.jpg" alt="life-mushroom" width="25" height="25" /> | life-mushroom.jpg |
 |<img src="loading-pinwheel.gif" alt="loading-pinwheel" width="25" height="25" /> | loading-pinwheel.gif |
 |<img src="loading-plz.gif" alt="loading-plz" width="25" height="25" /> | loading-plz.gif |
 |![mario](mario.gif)                            | mario.gif |
 |<img src="mario-coin.gif" alt="mario-coin" width="25" height="25" /> | mario-coin.gif |
 |<img src="mario-question.gif" alt="mario-question" width="25" height="25" /> | mario-question.gif |
+|<img src="mockingjay.png" alt="mockingjay" width="25" height="25" /> | mockingjay.png |
 |![mrt](mrt.png)                                | mrt.png |
 |<img src="mryuck.png" alt="mryuck" width="25" height="25" /> | mryuck.png |
 |![mustache](mustache.png)                      | mustache.png |
@@ -77,6 +82,7 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |<img src="rightshark.png" alt="rightshark" width="25" height="25" /> | rightshark.png |
 |![reddit](reddit.png)                          | reddit.png |
 |![robotunicorn](robotunicorn.gif)              | robotunicorn.gif |
+|<img src="roger-roger.png" alt="roger-roger" width="25" height="25" /> | roger-roger.png |
 |<img src="rubberduck.gif" alt="rubberduck" width="25" height="25" /> | rubberduck.gif |
 |![sadpanda](sadpanda.png)                      | sadpanda.png |
 |![safari](safari.png)                          | safari.png |
@@ -89,5 +95,8 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |<img src="vagrant.png" alt="vagrant" width="25" height="25" /> | vagrant.png |
 |<img src="wapuu.png" alt="Wapuu" width="22" height="25" /> |wapuu.png |
 |<img src="wordpress.png" alt="WordPress" width="25" height="25" /> |wordpress.png |
+|<img src="workout.gif" alt="workout" width="25" height="25" /> | workout.gif |
 |<img src="wpaz.png" alt="wpaz" width="25" height="25" /> |wpaz.png (Arizona WordPress Group) |
 |<img src="yodawg.gif" alt="yodawg" width="19" height="25" /> | yodawg.gif |
+|<img src="yoshi.png" alt="yoshi" width="25" height="25" /> | yoshi.png |
+|<img src="zombie.gif" alt="zombie" width="19" height="25" /> | zombie.gif |
