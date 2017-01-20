@@ -14,6 +14,7 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 
 | Icon | File Name |
 | --------------------------------------------- | --------------------------------------- |
+|<img src="50cent.png" alt="50cent" width="25" height="25" /> | 50cent.png |
 |<img src="aactocat.png" alt="aactocat" width="25" height="25" /> | aactocat.png |
 |<img src="adventuretime.gif" alt="adventuretime" width="25" height="25" /> | adventuretime.gif |
 |![allthethings](allthethings.png)              | allthethings.png |
@@ -22,16 +23,20 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |<img src="asanacheck.png" alt="asanacheck" width="25" height="25" /> | asanacheck.png |
 |<img src="aussieparrot.gif" alt="aussieparrot" width="25" height="22" /> | aussieparrot.gif |
 |<img src="avocado.png" alt="avocado" width="25" height="25" /> | avocado.png |
+|<img src="awesome.png" alt="awesome" width="25" height="25" /> | awesome.png |
 |<img src="aws.png" alt="aws" width="25" height="25" /> | aws.png |
 |<img src="awyeah.png" alt="awyeah" width="25" height="20" /> | awyeah.png |
 |<img src="babygoat.gif" alt="babygoat" width="25" height="25" /> | babygoat.gif |
+|<img src="bacon.png" alt="bacon" width="25" height="25" /> | bacon.png |
 |![badgerbadgerbadger](badgerbadgerbadger.gif)  | badgerbadgerbadger.gif |
 |<img src="badpokerface.png" alt="badpokerface" width="25" height="25" /> | badpokerface.png |
+|<img src="bagel.png" alt="bagel" width="25" height="25" /> | bagel.png |
 |![batman](batman.gif)                          | batman.gif |
 |<img src="bb8.gif" alt="bb8" width="25" height="25" /> | bb8.gif |
 |![bender](bender.png)                          | bender.png |
 |<img src="bender-banana.gif" alt="bender-banana" width="25" height="25" /> | bender-banana.gif |
 |<img src="bigeyes.png" alt="bigeyes" width="25" height="25" /> | bigeyes.png |
+|<img src="bluebottle.png" alt="bluebottle" width="25" height="25" /> | bluebottle.png |
 |<img src="bobross.png" alt="bobross" width="25" height="25" /> | bobross.png |
 |<img src="boo.png" alt="boo" width="25" height="25" /> | boo.png |
 |![booom](booom.gif)                            | booom.gif |
@@ -45,6 +50,7 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |![chewy](chewy.png)                            | chewy.png |
 |![chrome](chrome.png)                          | chrome.png |
 |<img src="clapping.gif" alt="clapping" width="25" height="25" /> | clapping.gif |
+|<img src="cookiemonster.png" alt="cookiemonster" width="25" height="25" /> | cookiemonster.png |
 |![coolio](coolio.png)                          | coolio.png |
 |<img src="confusedpuppy.gif" alt="confusedpuppy" width="25" height="25" /> | confusedpuppy.gif |
 |<img src="corgi.png" alt="corgi" width="25" height="25" /> | corgi.png |
@@ -56,14 +62,18 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |<img src="dancing-banana.gif" alt="dancing-banana" width="25" height="25" /> | dancing-banana.gif |
 |<img src="dancing-banana-brian.gif" alt="dancing-banana-brian" width="25" height="25" /> | dancing-banana-brian.gif |
 |<img src="dancingbart.gif" alt="dancingbart" width="25" height="25" /> | dancingbart.gif |
+|<img src="dancingburrito.gif" alt="dancingburrito" width="25" height="25" /> | dancingburrito.gif |
+|<img src="dancingburrito2.gif" alt="dancingburrito2" width="25" height="25" /> | dancingburrito2.gif |
 |<img src="dancingcarlton.gif" alt="dancingcarlton" width="21" height="25" /> | dancingcarlton.gif |
 |<img src="dancingcat.gif" alt="dancingcat" width="25" height="25" /> | dancingcat.gif |
 |<img src="dancingchewbacca.gif" alt="dancingchewbacca" width="25" height="25" /> | dancingchewbacca.gif |
 |<img src="dancingcow.gif" alt="dancingcow" width="25" height="25" /> | dancingcow.gif |
+|<img src="dancingcupcake.gif" alt="dancingcupcake" width="25" height="25" /> | dancingcupcake.gif |
 |<img src="dancingdonald.gif" alt="dancingdonald" width="25" height="25" /> | dancingdonald.gif |
 |<img src="dancingfrog.gif" alt="dancingfrog" width="25" height="25" /> | dancingfrog.gif |
 |<img src="dancinggluten.gif" alt="dancinggluten" width="25" height="25" /> | dancinggluten.gif |
 |<img src="dancinghobbes.gif" alt="dancinghobbes" width="25" height="25" /> | dancinghobbes.gif |
+|<img src="dancingminion.gif" alt="dancingminion" width="25" height="25" /> | dancingminion.gif |
 |<img src="dancingorange.gif" alt="dancingorange" width="25" height="22" /> | dancingorange.gif |
 |<img src="dancingpizza.gif" alt="dancingpizza" width="25" height="25" /> | dancingpizza.gif |
 |<img src="dancingpotato.gif" alt="dancingpotato" width="25" height="25" /> | dancingpotato.gif |
@@ -159,6 +169,7 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |<img src="olympics.png" alt="olympics" width="25" height="22" /> | olympics.png |
 |<img src="orly.png" alt="orly" width="25" height="25" /> | orly.png |
 |![opera](opera.png)                            | opera.png |
+|<img src="pancakes.png" alt="pancakes" width="25" height="25" /> | pancakes.png |
 |<img src="partycat.png" alt="partycat" width="25" height="25" /> | partycat.png |
 |<img src="partyparrot.gif" alt="partyparrot" width="25" height="25" /> | partyparrot.gif |
 |<img src="patrick.png" alt="patrick" width="25" height="25" /> | patrick.png |
