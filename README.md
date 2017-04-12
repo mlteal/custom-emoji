@@ -201,7 +201,9 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |<img src="scotch.jpg" alt="scotch" width="25" height="25" /> | scotch.jpg |
 |<img src="servermeltdown.gif" alt="servermeltdown" width="25" height="25" /> | servermeltdown.gif |
 |<img src="shedoesntevengohere.jpg" alt="shedoesntevengohere" width="25" height="25" /> | shedoesntevengohere.jpg |
+|<img src="shakesfist.gif" alt="shakesfist" width="25" height="20" /> | shakesfist.gif |
 |<img src="shiftyeyes.gif" alt="shiftyeyes" width="25" height="25" /> | shiftyeyes.gif |
+|<img src="shuffleparrot.gif" alt="shuffleparrot" width="25" height="25" /> | shuffleparrot.gif |
 |<img src="shutupandtakemymoney.jpg" alt="shutupandtakemymoney" width="25" height="25" /> | shutupandtakemymoney.jpg |
 |<img src="silvermedal.png" alt="silvermedal" width="25" height="25" /> | silvermedal.png |
 |<img src="simba.gif" alt="simba" width="25" height="25" /> | simba.gif |
@@ -215,6 +217,7 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |<img src="tardis.gif" alt="tardis" width="20" height="25" /> | tardis.gif |
 |<img src="taylorswift.gif" alt="taylorswift" width="25" height="25" /> | taylorswift.gif |
 |<img src="teardrop.png" alt="teardrop" width="25" height="25" /> | teardrop.png |
+|<img src="thisisfine.png" alt="thisisfine" width="25" height="25" /> | thisisfine.png |
 |![timeforthat](timeforthat.gif)                |timeforthat.gif |
 |<img src="trogdor.gif" alt="trogdor" width="25" height="25" /> | trogdor.gif |
 |<img src="tumbleweed.gif" alt="tumbleweed" width="25" height="25" /> | tumbleweed.gif |
@@ -222,6 +225,7 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |<img src="vagrant.png" alt="vagrant" width="25" height="25" /> | vagrant.png |
 |<img src="verified.png" alt="verified" width="25" height="25" /> | verified.png |
 |<img src="vote.png" alt="vote" width="25" height="25" /> | vote.png |
+|<img src="waldo.png" alt="waldo" width="25" height="25" /> | waldo.png |
 |<img src="walkingcamel.gif" alt="walkingcamel" width="25" height="25" /> | walkingcamel.gif |
 |<img src="walkinggodzilla.gif" alt="walkinggodzilla" width="25" height="25" /> | walkinggodzilla.gif |
 |<img src="wapuu.png" alt="Wapuu" width="22" height="25" /> |wapuu.png |
