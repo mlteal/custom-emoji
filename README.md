@@ -102,6 +102,7 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |<img src="eeyore.png" alt="eeyore" width="25" height="25" /> | eeyore.png |
 |<img src="excellent.png" alt="excellent" width="23" height="25" /> | excellent.png |
 |<img src="fascinating.png" alt="fascinating" width="25" height="25" /> | fascinating.png |
+|<img src="fedora.png" alt="fedora" width="25" height="25" /> | fedora.png |
 |<img src="fingerscrossed.png" alt="fingerscrossed" width="25" height="25" /> | fingerscrossed.png |
 |![firefox](firefox.png)                        | firefox.png |
 |![firstworldproblem](firstworldproblem.png)    | firstworldproblem.png |
