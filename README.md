@@ -14,12 +14,21 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 
 | Icon | File Name |
 | --------------------------------------------- | --------------------------------------- |
-|![1password](1password.png) | 1password.png |
+|<img src="1password.png" alt="1password" height="25" /> | 1password.png |
 |<img src="50cent.png" alt="50cent" width="25" height="25" /> | 50cent.png |
-|![Bandit_excited](Bandit_excited.png) | Bandit_excited.png |
-|![Bandit_grumpy.png](Bandit_grumpy.png) | Bandit_grumpy.png |
-|![Bandit_heart.png](Bandit_heart.png) | Bandit_heart.png |
-|![Bandit_hmph.png](Bandit_hmph.png) | Bandit_hmph.png |
+|<img alt="Bandit_excited" src="Bandit_excited.png" height="25" /> | Bandit_excited.png |
+|<img src="Bandit_grumpy.png" alt="Bandit_grumpy.png" height="25" /> | Bandit_grumpy.png |
+|<img src="Bandit_heart.png" alt="Bandit_heart.png" height="25" /> | Bandit_heart.png |
+|<img src="Bandit_hmph.png" alt="Bandit_hmph.png" height="25" /> | Bandit_hmph.png |
+|<img src="Bandit_in_a_box.png" alt="Bandit_in_a_box.png" height"25" /> | Bandit_in_a_box.png |
+|<img src="Bandit_litterbox.png" alt="Bandit_litterbox.png" height="25" /> | Bandit_litterbox.png |
+|<img src="Bandit_running.png" alt="Bandit_running.png" height="25" /> | Bandit_running.png |
+|<img src="Bandit_smooch.png" alt="Bandit_smooch.png" height="25" /> | Bandit_smooch.png |
+|<img src="Bandit_tangled.png" alt="Bandit_tangled.png" height="25" /> | Bandit_tangled.png |
+|<img src="Bandit_tired.png" alt="Bandit_tired.png" height="25" /> | Bandit_tired.png |
+|<img src="Bandit_wet.png" alt="Bandit_wet.png" height="25" /> | Bandit_wet.png |
+|<img src="GitKraken.png" alt="GitKraken.png" height="25" /> | GitKraken.png |
+|<img src="Kirk.png" alt="Kirk.png" height="25" /> | Kirk.png |
 |<img src="aactocat.png" alt="aactocat" width="25" height="25" /> | aactocat.png |
 |<img src="adventuretime.gif" alt="adventuretime" width="25" height="25" /> | adventuretime.gif |
 |![allthethings](allthethings.png)              | allthethings.png |
