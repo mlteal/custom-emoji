@@ -14,7 +14,12 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 
 | Icon | File Name |
 | --------------------------------------------- | --------------------------------------- |
+|![1password](1password.png) | 1password.png |
 |<img src="50cent.png" alt="50cent" width="25" height="25" /> | 50cent.png |
+|![Bandit_excited](Bandit_excited.png) | Bandit_excited.png |
+|![Bandit_grumpy.png](Bandit_grumpy.png) | Bandit_grumpy.png |
+|![Bandit_heart.png](Bandit_heart.png) | Bandit_heart.png |
+|![Bandit_hmph.png](Bandit_hmph.png) | Bandit_hmph.png |
 |<img src="aactocat.png" alt="aactocat" width="25" height="25" /> | aactocat.png |
 |<img src="adventuretime.gif" alt="adventuretime" width="25" height="25" /> | adventuretime.gif |
 |![allthethings](allthethings.png)              | allthethings.png |
