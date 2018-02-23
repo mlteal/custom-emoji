@@ -20,7 +20,7 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |<img src="Bandit_grumpy.png" alt="Bandit_grumpy.png" height="25" /> | Bandit_grumpy.png |
 |<img src="Bandit_heart.png" alt="Bandit_heart.png" height="25" /> | Bandit_heart.png |
 |<img src="Bandit_hmph.png" alt="Bandit_hmph.png" height="25" /> | Bandit_hmph.png |
-|<img src="Bandit_in_a_box.png" alt="Bandit_in_a_box.png" height"25" /> | Bandit_in_a_box.png |
+|<img src="Bandit_in_a_box.png" alt="Bandit_in_a_box.png" height="25" /> | Bandit_in_a_box.png |
 |<img src="Bandit_litterbox.png" alt="Bandit_litterbox.png" height="25" /> | Bandit_litterbox.png |
 |<img src="Bandit_running.png" alt="Bandit_running.png" height="25" /> | Bandit_running.png |
 |<img src="Bandit_smooch.png" alt="Bandit_smooch.png" height="25" /> | Bandit_smooch.png |
