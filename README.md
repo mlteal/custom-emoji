@@ -51,7 +51,7 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |![chrome](chrome.png)                          | chrome.png |
 |<img src="clapping.gif" alt="clapping" width="25" height="25" /> | clapping.gif |
 |<img src="cookiemonster.png" alt="cookiemonster" width="25" height="25" /> | cookiemonster.png |
-|![coolio](coolio.png)                          | coolio.png |
+|<img src="coolio.png" alt="coolio" height="25" />                          | coolio.png |
 |<img src="confusedpuppy.gif" alt="confusedpuppy" width="25" height="25" /> | confusedpuppy.gif |
 |<img src="corgi.png" alt="corgi" width="25" height="25" /> | corgi.png |
 |<img src="cowbell.png" alt="cowbell" width="25" height="25" /> | cowbell.png |
