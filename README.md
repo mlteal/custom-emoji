@@ -47,7 +47,7 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |<img src="avocado.png" alt="avocado" width="25" height="25" /> | avocado.png |
 |<img src="awesome.png" alt="awesome" width="25" height="25" /> | awesome.png |
 |<img src="aws.png" alt="aws" width="25" height="25" /> | aws.png |
-|![awthanks.png](awthanks.png) | awthanks.png |
+|<img src="awthanks.png" alt="awthanks.png" height="25" /> | awthanks.png |
 |![awww.png](awww.png) | awww.png |
 |<img src="awyeah.png" alt="awyeah" width="25" height="20" /> | awyeah.png |
 |<img src="babygoat.gif" alt="babygoat" width="25" height="25" /> | babygoat.gif |
