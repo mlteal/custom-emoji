@@ -68,7 +68,7 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |<img src="bender-banana.gif" alt="bender-banana" width="25" height="25" /> | bender-banana.gif |
 |![bhangra.gif](bhangra.gif) | bhangra.gif |
 |<img src="bigeyes.png" alt="bigeyes" width="25" height="25" /> | bigeyes.png |
-|<img src="blazeit420.png" alt="blazeit420.png" height="25" /> blazeit420.png |
+|<img src="blazeit420.png" alt="blazeit420.png" height="25" /> | blazeit420.png |
 |<img src="bluebottle.png" alt="bluebottle" width="25" height="25" /> | bluebottle.png |
 |<img src="bobross.png" alt="bobross" width="25" height="25" /> | bobross.png |
 |<img src="boo.png" alt="boo" width="25" height="25" /> | boo.png |
@@ -96,7 +96,7 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |<img src="clap.gif" alt="clap.gif" height="25" /> | clap.gif |
 |<img src="clapping.gif" alt="clapping" width="25" height="25" /> | clapping.gif |
 |<img src="clippy.png" alt="clippy.png" height="25" /> | clippy.png |
-|![command.png](command.png) | command.png |
+|<img src="command.png" alt="command.png" height="25" /> | command.png |
 |<img src="confusedpuppy.gif" alt="confusedpuppy" width="25" height="25" /> | confusedpuppy.gif |
 |![construction.gif](construction.gif) | construction.gif |
 |![content.png](content.png) | content.png |
@@ -229,7 +229,7 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |<img src="jagr.png" alt="jagr" width="25" height="25" /> | jagr.png |
 |![jareth.gif](jareth.gif) | jareth.gif |
 |<img src="jarjar.gif" alt="jarjar" width="25" height="25" /> | jarjar.gif |
-|![jira.png](jira.png) | jira.png |
+|<img src="jira.png" alt="jira.png" height="25" /> | jira.png |
 |![js.png](js.png) | js.png |
 |<img src="kanye.png" alt="kanye" width="25" height="25" /> | kanye.png |
 |<img src="keepcalmsheepon.gif" alt="keepcalmsheepon" width="25" height="25" /> | keepcalmsheepon.gif |
