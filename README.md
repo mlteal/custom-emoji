@@ -53,7 +53,6 @@ Use this chrome extension to add all these neat custom emojis in seconds: [Slack
 |<img src="babygoat.gif" alt="babygoat" width="25" height="25" /> | babygoat.gif |
 |<img src="bacon.png" alt="bacon" width="25" height="25" /> | bacon.png |
 |![back.gif](back.gif) | back.gif |
-|<img src="back_away.gif" alt="back_away.gif" height="25" /> | back_away.gif |
 |<img src="backtowork.gif" alt="backtowork.gif" height="25" /> | backtowork.gif |
 |![badgerbadgerbadger](badgerbadgerbadger.gif)  | badgerbadgerbadger.gif |
 |![badjokeeel.png](badjokeeel.png) | badjokeeel.png |
